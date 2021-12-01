@@ -9,7 +9,7 @@ const Navbar = () => {
           <div className="col-10 mx-auto">
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
               <NavLink exact className="navbar-brand font-weight-bold " to="/">
-                ThapaTechnical
+                Ayush/mishra
               </NavLink>
               <button
                 className="navbar-toggler"
